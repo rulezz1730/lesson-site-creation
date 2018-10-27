@@ -1,0 +1,22 @@
+{
+  "name": "lesson-site-creation",
+  "version": "1.0.0",
+  "description": "A lesson for site creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rulezz1730/lesson-site-creation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rulezz1730/lesson-site-creation/issues"
+  },
+  "homepage": "https://github.com/rulezz1730/lesson-site-creation#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
